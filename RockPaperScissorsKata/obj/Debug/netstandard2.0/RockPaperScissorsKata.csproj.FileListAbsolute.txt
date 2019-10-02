@@ -1,0 +1,9 @@
+C:\Users\bnqubuka\source\repos\RockPaperScissorsKata\RockPaperScissorsKata\bin\Debug\netstandard2.0\RockPaperScissorsKata.deps.json
+C:\Users\bnqubuka\source\repos\RockPaperScissorsKata\RockPaperScissorsKata\bin\Debug\netstandard2.0\RockPaperScissorsKata.dll
+C:\Users\bnqubuka\source\repos\RockPaperScissorsKata\RockPaperScissorsKata\bin\Debug\netstandard2.0\RockPaperScissorsKata.pdb
+C:\Users\bnqubuka\source\repos\RockPaperScissorsKata\RockPaperScissorsKata\obj\Debug\netstandard2.0\RockPaperScissorsKata.csprojAssemblyReference.cache
+C:\Users\bnqubuka\source\repos\RockPaperScissorsKata\RockPaperScissorsKata\obj\Debug\netstandard2.0\RockPaperScissorsKata.csproj.CoreCompileInputs.cache
+C:\Users\bnqubuka\source\repos\RockPaperScissorsKata\RockPaperScissorsKata\obj\Debug\netstandard2.0\RockPaperScissorsKata.AssemblyInfoInputs.cache
+C:\Users\bnqubuka\source\repos\RockPaperScissorsKata\RockPaperScissorsKata\obj\Debug\netstandard2.0\RockPaperScissorsKata.AssemblyInfo.cs
+C:\Users\bnqubuka\source\repos\RockPaperScissorsKata\RockPaperScissorsKata\obj\Debug\netstandard2.0\RockPaperScissorsKata.dll
+C:\Users\bnqubuka\source\repos\RockPaperScissorsKata\RockPaperScissorsKata\obj\Debug\netstandard2.0\RockPaperScissorsKata.pdb
